@@ -1,0 +1,27 @@
+---
+layout: post
+title: 2012
+---
+
+2012 saw Emerging Languages join forces with "Strange Loop":https://thestrangeloop.com/, a well-regarded annual conference in St. Louis that's been running since 2009. While we greatly appreciated O'Reilly generously hosting our first two years, Strange Loop proved to be a better fit for the majority of our attendees. With its emphasis on applied Computer Science across a variety of technologies and topics, Strange Loop bridges industry and academia in much the same way we hope Emerging Languages does.
+
+Our format changed once again this year, adopting one day of medium-length talks (twelve in total). This format has proven to be the best balance of our previous attempts and we're sticking with it in 2013 and beyond.
+
+table(pure-table pure-table-striped).
+|_. Speaker(s) |_. Topic |_. Slides + Video |
+| Michael Homer | "Grace":http://gracelang.org/ | "InfoQ":http://www.infoq.com/presentations/Grace-OOP-Language |
+| "Brian McKenna":http://brianmckenna.org/blog/ | "Roy":http://roy.brianmckenna.org/ |  "InfoQ":http://www.infoq.com/presentations/Roy |
+| "Jeremy Ashkenas":http://ashkenas.com | Transpiling into JavaScript | "InfoQ":http://www.infoq.com/presentations/Symbiotic-Languages |
+| Ostap Cherkashin & Julius Chrobak | "Bandicoot":http://bandilab.org/ |  "InfoQ":http://www.infoq.com/presentations/Bandicoot |
+| "Jose Valim":http://blog.plataformatec.com.br/ | "Elixir":http://elixir-lang.org | "InfoQ":http://www.infoq.com/presentations/Elixir-Erlang-VM |
+| "Stefan Karpinski":http://karpinski.org/ | "Julia":http://julialang.org/ | "InfoQ":http://www.infoq.com/presentations/Julia |
+| "Håkan Råberg":https://github.com/hraberg | "Enumerable.java":https://github.com/hraberg/enumerable (and more) | "InfoQ":http://www.infoq.com/presentations/Enumerable-Java-Shen-Clojure |
+| "David Pollak":http://blog.goodstuff.im | "Visi":http://blog.visi.la/ | "InfoQ":http://www.infoq.com/presentations/Visi |
+| "David Kendal":http://dpk.io | "Plan":https://github.com/dpk/Plan |  |
+| "Evan Czaplicki":http://evan.czaplicki.us | "Elm":http://elm-lang.org/ | "InfoQ":http://www.infoq.com/presentations/Elm |
+| "David Herman":http://calculist.org | "Rust":http://www.rust-lang.org/ | "InfoQ":http://www.infoq.com/presentations/Rust |
+
+h3. Coverage
+
+* "Skimbox Blog: Strange Loop Emerging Languages Recap":http://www.ripariandata.com/blog/strange-loop-emerging-languages-camp-recap-julia-elixer-a-bandicoot/
+* "Andrey Popp":http://andreypopp.com/posts/2012-09-30-emerging-languages-bandicoot-elm-roy.html

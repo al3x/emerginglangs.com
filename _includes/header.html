@@ -1,0 +1,37 @@
+<div class="header">
+  <div id="top-menu" class="pure-menu pure-menu-open pure-menu-fixed pure-menu-horizontal">
+    <a class="pure-menu-heading" href="/">{{ site.name }}</a>
+
+    <ul id="top-menu-items">
+      <li><a href="/">Home</a></li>
+      <li><a href="/about.html">About</a></li>
+      <li><a href="/contact.html">Contact</a></li>
+      <li>
+        <a href="#">Archive</a>
+        <ul>
+          {% for post in site.posts %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script>
+YUI({
+    classNamePrefix: 'pure'
+    }).use('gallery-sm-menu', function (Y) {
+
+    var horizontalMenu = new Y.Menu({
+      container         : '#top-menu',
+      sourceNode        : '#top-menu-items',
+      orientation       : 'horizontal',
+      hideOnOutsideClick: false,
+      hideOnClick       : false
+    });
+
+    horizontalMenu.render();
+    horizontalMenu.show();
+});
+</script>

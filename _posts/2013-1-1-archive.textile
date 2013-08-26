@@ -1,0 +1,45 @@
+---
+layout: post
+title: 2013
+---
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+  <table class="pure-table pure-table-horizontal pure-table-striped">
+    <thead>
+      <tr>
+        <th>Speaker</th>
+        <th>Presentation</th>
+        <th>Slides</th>
+        <th>Video</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Honda</td>
+        <td>Accord</td>
+        <td>2009</td>
+      </tr>
+
+      <tr>
+        <td>2</td>
+        <td>Toyota</td>
+        <td>Camry</td>
+        <td>2012</td>
+      </tr>
+
+      <tr>
+        <td>3</td>
+        <td>Hyundai</td>
+        <td>Elantra</td>
+        <td>2010</td>
+      </tr>
+    </tbody>
+  </table>

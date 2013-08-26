@@ -1,0 +1,39 @@
+---
+layout: post
+title: 2010
+---
+
+2010 was our first year. Emerging Languages was generously given space at the "OSCON":http://www.oscon.com/ conference by O'Reilly.Because this was our first event we had lots of catching up to do! We hosted two very full days of short talks. Our space was standing room only much of the time.
+
+h3. Day One
+
+table(pure-table pure-table-striped).
+|_. Speaker |_. Topic |_. Slides |_. Video |
+| "Rob Pike":http://research.google.com/pubs/r.html | "Go":http://golang.org/ | "PDF":http://cdn.oreillystatic.com/en/assets/1/event/45/Go%20Presentation.pdf |   |
+| "Ola Bini":http://olabini.com/ | "Ioke":http://ioke.org/ & "Seph":http://seph-lang.org/index.html |   |   |
+| "Phil Mercurio":http://thyrd.org/mercurio/ | "Thyrd":http://thyrd.org/ |   |   |
+| "Allison Randal":http://allisonrandal.com/ | "Parrot":http://www.parrot.org/ |   |   |
+| "Adam Chlipala":http://adam.chlipala.net/ | "Ur":http://plv.csail.mit.edu/ur/ |   |   |
+| "Alan Eliasen":http://futureboy.us/ | "Frink":http://futureboy.us/frinkdocs/ |   |   |
+| "Gilad Bracha":http://www.bracha.org/ | "Newspeak":http://newspeaklanguage.org/ |   |   |
+| "Joe Pamer":http://www.noteven.org/ | "F#":http://www.tryfsharp.org |   |   |
+| "Jeremy Ashkenas":http://ashkenas.com/ | "CoffeeScript":http://coffeescript.org |   |   |
+| "Charles Nutter":http://blog.headius.com/ | "Mirah":http://www.mirah.org/ |   |   |
+| "Francisco Tolmasky":http://tolmasky.com | "Objective-J":http://www.cappuccino-project.org/learn/objective-j.html |   |   |
+
+h3. Day Two
+
+table(pure-table pure-table-striped).
+|_. Speaker |_. Topic |_. Slides |_. Video |
+| "Matt MacLaurin":http://www.linkedin.com/pub/matt-maclaurin/0/a/7 | "Kodu":http://fuse.microsoft.com/kodu |   |   |
+| "Rich Hickey":https://en.wikipedia.org/wiki/Rich_Hickey | "Clojure":http://clojure.org |   |   |
+| "Mark Miller":https://en.wikipedia.org/wiki/Mark_S._Miller | "E":http://www.erights.org/ & "Caja":https://developers.google.com/caja/ |   |   |
+| "Christopher Bertels":http://www.adztec-independent.de/ | "Fancy":http://www.fancy-lang.org/ | "Scribd":http://www.scribd.com/doc/34846346/fancy-emerginglangs-2010 |   |
+| "Jonathan Shapiro":http://srl.cs.jhu.edu/~shap/ | "BitC":http://www.bitc-lang.org |   |   |
+| "Steve Folta":http://www.linkedin.com/pub/steve-folta/1a/502/292 | "Trylon":http://somefancy.com/trylon/ |   |   |
+| "Amos Wenger":http://amos.me/ | "ooc":http://ooc-lang.org/ | "PDF":http://cdn.oreillystatic.com/en/assets/1/event/45/ooc%20-A%20Hybrid%20Language%20Experiment%20Presentation.pdf |   |
+| "Jonathan Edwards":http://alarmingdevelopment.org/ | "Coherence":http://coherence-lang.org & "Subtext":http://subtextual.org | "PPT":http://cdn.oreillystatic.com/en/assets/1/event/45/Coherence_Subtext%20Presentation.ppt |   |
+| "Alexander Fritze":http://www.onilabs.com/ | "Stratified JavaScript":http://onilabs.com/stratifiedjs |   |   |
+| "Slava Pestov":http://factorcode.org/slava | "Factor":http://factorcode.org/ |   |   |
+| "Walter Bright":http://walterbright.com | "D":http://dlang.org/ | "PDF":http://assets.en.oreilly.com/1/event/45/The%20D%20Programming%20Language%20Presentation.pdf |   |
+| "Tom Van Cutsem":http://soft.vub.ac.be/~tvcutsem | "AmbientTalk":http://soft.vub.ac.be/amop/ | "PDF":http://cdn.oreillystatic.com/en/assets/1/event/45/AmbientTalk%20Presentation.pdf |   |

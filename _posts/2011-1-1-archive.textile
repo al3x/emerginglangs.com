@@ -1,0 +1,28 @@
+---
+layout: post
+title: 2011
+---
+
+In 2011, Emerging Languages was made "an official track at OSCON":http://www.oscon.com/oscon2011/public/schedule/topic/653. We changed up the format and experimented with fewer, longer presentations at the request of some previous attendees. Ultimately, this format was not as popular and shorter talks returned the following year. We still enjoyed some great presentations, though!
+
+h3. Day One
+
+table(pure-table pure-table-striped).
+|_. Speaker |_. Topic |_. Slides |_. Video |
+| "Tucker Taft":http://www.adahome.com/Rogues/taft.html | "ParaSail":https://forge.open-do.org/plugins/moinmoin/parasail/ |   |   |
+| "Brian Rice":http://www.briantrice.com | "Slate":http://www.slatelanguage.org/ |   |   |
+| "Joe Pamer":http://t.co/91QeILFnFe | "F# Type Providers":http://msdn.microsoft.com/en-us/library/hh156509.aspx |   |   |
+| "Ola Bini":https://olabini.com | "Seph":http://seph-lang.org/ |   |   |
+| "Daniel Spiewak":http://www.codecommit.com/ | Structural Prototypes | "PDF":http://cdn.oreillystatic.com/en/assets/1/event/61/Structural%20Prototypes_%20Resolving%20the%20Statically-typed%20Object-functional%20Dichotomy%20Presentation.pdf |   |
+| "Richard Tibbetts":http://innocuous.org/ | "StreamSQL EventFlow":https://en.wikipedia.org/wiki/StreamBase_Systems#StreamSQL_EventFlow_Language | "PDF":http://cdn.oreillystatic.com/en/assets/1/event/61/StreamSQL%20EventFlow_%20Visual%20Programming%20for%20Real%20Programmers%20Presentation.pptx |   |
+
+h3. Day Two
+
+table(pure-table pure-table-striped).
+|_. Speaker |_. Topic |_. Slides |_. Video |
+| "Jonathan Aldrich":http://www.cs.cmu.edu/~aldrich/index.html | "Plaid":http://www.cs.cmu.edu/~aldrich/plaid/ | "PDF":http://cdn.oreillystatic.com/en/assets/1/event/61/Plaid_%20Programming%20with%20Typestate%20and%20Permissions%20Presentation.pdf |   |
+| "Matt Youell":http://youell.com/matt | "Wheeler":https://github.com/built/wheeler |   |   |
+| "Bob Nystrom":http://journal.stuffwithstuff.com/ | "Magpie":http://magpie.stuffwithstuff.com/ |   |   |
+| Yann Orlarey | "Faust":http://faust.grame.fr/ | "PDF":http://cdn.oreillystatic.com/en/assets/1/event/61/The%20FAUST%20programming%20language%20Presentation.pdf |   |
+| "Andrey Breslav":https://sites.google.com/site/abreslav2/ | "Kotlin":http://kotlin.jetbrains.org | "PDF":http://cdn.oreillystatic.com/en/assets/1/event/61/The%20Kotlin%20Programming%20Language%20Presentation.pdf |   |
+| "Carson Gross":http://newhelvetic.com | "Gosu":http://gosu-lang.org |   |   |

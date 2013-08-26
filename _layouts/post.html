@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Emerging Languages – {{ page.title }}</title>
+  <link rel="stylesheet" href="http://yui.yahooapis.com/combo?pure/0.2.1/base-min.css&pure/0.2.1/grids-min.css&pure/0.2.1/menus-min.css&pure/0.2.1/tables-min.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <script src="http://yui.yahooapis.com/3.11.0/build/yui/yui-min.js"></script>
+</head>
+<body style="zoom: 1;">
+  
+  <div class="content">
+    {% include header.html %}
+
+    <div class="pure-g-r content main">
+      <div class="pure-u-2-3 post">
+        <h2 class="content-subhead">{{ page.title }}</h2>
+        {{ content }}
+      </div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+</body>
+</html>
