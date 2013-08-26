@@ -9,6 +9,7 @@ Our format changed once again this year, adopting one day of medium-length talks
 
 table(pure-table pure-table-striped).
 |_. Speaker(s) |_. Topic |_. Slides + Video |
+| "Michael Fogus":http://fogus.me | "Datalog":https://en.wikipedia.org/wiki/Datalog | "InfoQ":http://www.infoq.com/presentations/Datalog |
 | Michael Homer | "Grace":http://gracelang.org/ | "InfoQ":http://www.infoq.com/presentations/Grace-OOP-Language |
 | "Brian McKenna":http://brianmckenna.org/blog/ | "Roy":http://roy.brianmckenna.org/ |  "InfoQ":http://www.infoq.com/presentations/Roy |
 | "Jeremy Ashkenas":http://ashkenas.com | Transpiling into JavaScript | "InfoQ":http://www.infoq.com/presentations/Symbiotic-Languages |
