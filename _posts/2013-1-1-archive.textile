@@ -3,43 +3,19 @@ layout: post
 title: 2013
 ---
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+We're back at "Strange Loop":https://thestrangeloop.com/preconf for another exciting year! Sticking to last year's format, in 2013 we'll once again offer a single-track day of twelve presentations.
 
-  <table class="pure-table pure-table-horizontal pure-table-striped">
-    <thead>
-      <tr>
-        <th>Speaker</th>
-        <th>Presentation</th>
-        <th>Slides</th>
-        <th>Video</th>
-      </tr>
-    </thead>
-
-    <tbody>
-      <tr>
-        <td>1</td>
-        <td>Honda</td>
-        <td>Accord</td>
-        <td>2009</td>
-      </tr>
-
-      <tr>
-        <td>2</td>
-        <td>Toyota</td>
-        <td>Camry</td>
-        <td>2012</td>
-      </tr>
-
-      <tr>
-        <td>3</td>
-        <td>Hyundai</td>
-        <td>Elantra</td>
-        <td>2010</td>
-      </tr>
-    </tbody>
-  </table>
+table(pure-table pure-table-striped).
+|_. Speaker |_. Topic |_. Slides + Video |
+| "Limin Fu":http://fulimin.org | "Dao":http://fulimin.org/#ProjectDao | check back later |
+| "William Cook":http://www.cs.utexas.edu/~wcook/ | "Enso":http://enso-lang.org/ | check back later |
+| "Tracy Harms":http://kaleidic.com | "J":http://www.jsoftware.com/ | check back later |
+| Walter Wilson | "Axiomatic Language":http://www.axiomaticlanguage.org/ | check back later |
+| Andreas Rumpf | "Nimrod":http://www.nimrod-code.org/ | check back later |
+| "Daira Hopwood":https://github.com/daira | Noether | check back later |
+| "Daniel Gregoire":https://twitter.com/semperos | "Gershwin":https://github.com/gershwin/gershwin | check back later |
+| "Dann Toliver":https://twitter.com/dann | Daimio | check back later |
+| "Rodrigo B. de Oliveria":https://github.com/bamboo | "Boo":http://boo.codehaus.org | check back later |
+| "Bodil Stokke":http://bodil.org/ | "BODOL":https://github.com/bodil/BODOL | check back later |
+| "Matthew Graham":https://twitter.com/lapsu | "Qbrt":https://github.com/mdg/qbrt | check back later |
+| Clayton Bauman | "Babel":http://babelscript.net/ | check back later |
