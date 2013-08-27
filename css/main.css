@@ -17,6 +17,11 @@ body {
   color: #265778;
 }
 
+.footer a, .footer a:visited {
+  text-decoration: none;
+  color: #999;
+}
+
 .l-box {
   padding: 1em;
 }
