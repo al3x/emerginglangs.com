@@ -9,6 +9,14 @@ body {
   line-height: 1.7em;
 }
 
+.content a {
+  color: #3b8bba;
+  text-decoration: none;
+}
+.content a:visited {
+  color: #265778;
+}
+
 .l-box {
   padding: 1em;
 }
