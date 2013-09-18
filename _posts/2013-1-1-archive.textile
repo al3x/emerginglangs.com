@@ -15,7 +15,8 @@ table(pure-table pure-table-striped).
 | "Daira Hopwood":https://github.com/daira | Noether | check back later |
 | "Daniel Gregoire":https://twitter.com/semperos | "Gershwin":https://github.com/gershwin/gershwin | check back later |
 | "Dann Toliver":https://twitter.com/dann | Daimio | check back later |
-| "Rodrigo B. de Oliveria":https://github.com/bamboo | "Boo":http://boo.codehaus.org | check back later |
 | "Bodil Stokke":http://bodil.org/ | "BODOL":https://github.com/bodil/BODOL | check back later |
 | "Matthew Graham":https://twitter.com/lapsu | "Qbrt":https://github.com/mdg/qbrt | check back later |
 | Clayton Bauman | "Babel":http://babelscript.net/ | check back later |
+| -"Rodrigo B. de Oliveria":https://github.com/bamboo- | -"Boo":http://boo.codehaus.org- | _was not able to present_ |
+
