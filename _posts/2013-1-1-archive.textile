@@ -3,20 +3,22 @@ layout: post
 title: 2013
 ---
 
-We're back at "Strange Loop":https://thestrangeloop.com/preconf for another exciting year! Sticking to last year's format, in 2013 we'll once again offer a single-track day of twelve presentations.
+We were back at "Strange Loop":https://thestrangeloop.com/preconf once again in 2013. One speaker had to drop out, but we enjoyed a day of eleven strong presentations.
+
+Videos (including slides) of all presentations are "available on InfoQ":http://www.infoq.com/conferences/strangeloop2013/. For a few months they'll only be available to Strange Loop attendees. Eventually they'll be made freely available to the public.
 
 table(pure-table pure-table-striped).
 |_. Speaker |_. Topic |_. Slides + Video |
-| "Limin Fu":http://fulimin.org | "Dao":http://fulimin.org/#ProjectDao | check back later |
-| "William Cook":http://www.cs.utexas.edu/~wcook/ | "Enso":http://enso-lang.org/ | check back later |
-| "Tracy Harms":http://kaleidic.com | "J":http://www.jsoftware.com/ | check back later |
-| Walter Wilson | "Axiomatic Language":http://www.axiomaticlanguage.org/ | check back later |
-| Andreas Rumpf | "Nimrod":http://www.nimrod-code.org/ | check back later |
-| "Daira Hopwood":https://github.com/daira | Noether | check back later |
-| "Daniel Gregoire":https://twitter.com/semperos | "Gershwin":https://github.com/gershwin/gershwin | check back later |
-| "Dann Toliver":https://twitter.com/dann | Daimio | check back later |
-| "Bodil Stokke":http://bodil.org/ | "BODOL":https://github.com/bodil/BODOL | check back later |
-| "Matthew Graham":https://twitter.com/lapsu | "Qbrt":https://github.com/mdg/qbrt | check back later |
-| Clayton Bauman | "Babel":http://babelscript.net/ | check back later |
+| "Limin Fu":http://fulimin.org | "Dao":http://fulimin.org/#ProjectDao | "InfoQ":http://www.infoq.com/presentations/dao-scripting?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
+| "William Cook":http://www.cs.utexas.edu/~wcook/ | "Enso":http://enso-lang.org/ | "InfoQ":http://www.infoq.com/presentations/enso-dsl?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
+| "Tracy Harms":http://kaleidic.com | "J":http://www.jsoftware.com/ | "InfoQ":http://www.infoq.com/presentations/j-language?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
+| Walter Wilson | "Axiomatic Language":http://www.axiomaticlanguage.org/ | "InfoQ":http://www.infoq.com/presentations/axiomatic-language?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
+| Andreas Rumpf | "Nimrod":http://www.nimrod-code.org/ | "InfoQ":http://www.infoq.com/presentations/nimrod?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
+| "Daira Hopwood":https://github.com/daira | Noether | "InfoQ":http://www.infoq.com/presentations/noether?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
+| "Daniel Gregoire":https://twitter.com/semperos | "Gershwin":https://github.com/gershwin/gershwin | "InfoQ":http://www.infoq.com/presentations/gershwin?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
+| "Dann Toliver":https://twitter.com/dann | Daimio | "InfoQ":http://www.infoq.com/presentations/daimio?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
+| "Bodil Stokke":http://bodil.org/ | "BODOL":https://github.com/bodil/BODOL | "InfoQ":http://www.infoq.com/presentations/bodol?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
+| "Matthew Graham":https://twitter.com/lapsu | "Qbrt":https://github.com/mdg/qbrt | "InfoQ":http://www.infoq.com/presentations/qbrt-bytecode?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
+| Clayton Bauman | "Babel":http://babelscript.net/ | "InfoQ":http://www.infoq.com/presentations/babel?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
 | -"Rodrigo B. de Oliveria":https://github.com/bamboo- | -"Boo":http://boo.codehaus.org- | _was not able to present_ |
 
