@@ -9,16 +9,15 @@ Videos (including slides) of all presentations are "available on InfoQ":http://w
 
 table(pure-table pure-table-striped).
 |_. Speaker |_. Topic |_. Slides + Video |
-| "Limin Fu":http://fulimin.org | "Dao":http://fulimin.org/#ProjectDao | "InfoQ":http://www.infoq.com/presentations/dao-scripting?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
-| "William Cook":http://www.cs.utexas.edu/~wcook/ | "Enso":http://enso-lang.org/ | "InfoQ":http://www.infoq.com/presentations/enso-dsl?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
-| "Tracy Harms":http://kaleidic.com | "J":http://www.jsoftware.com/ | "InfoQ":http://www.infoq.com/presentations/j-language?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
-| Walter Wilson | "Axiomatic Language":http://www.axiomaticlanguage.org/ | "InfoQ":http://www.infoq.com/presentations/axiomatic-language?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
-| Andreas Rumpf | "Nimrod":http://www.nimrod-code.org/ | "InfoQ":http://www.infoq.com/presentations/nimrod?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
-| "Daira Hopwood":https://github.com/daira | Noether | "InfoQ":http://www.infoq.com/presentations/noether?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
-| "Daniel Gregoire":https://twitter.com/semperos | "Gershwin":https://github.com/gershwin/gershwin | "InfoQ":http://www.infoq.com/presentations/gershwin?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
-| "Dann Toliver":https://twitter.com/dann | Daimio | "InfoQ":http://www.infoq.com/presentations/daimio?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
-| "Bodil Stokke":http://bodil.org/ | "BODOL":https://github.com/bodil/BODOL | "InfoQ":http://www.infoq.com/presentations/bodol?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
-| "Matthew Graham":https://twitter.com/lapsu | "Qbrt":https://github.com/mdg/qbrt | "InfoQ":http://www.infoq.com/presentations/qbrt-bytecode?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
-| Clayton Bauman | "Babel":http://babelscript.net/ | "InfoQ":http://www.infoq.com/presentations/babel?utm_source=infoq&utm_medium=QCon_EarlyAccessVideos&utm_campaign=StrangeLoop2013 |
+| "Limin Fu":http://fulimin.org | "Dao":http://fulimin.org/#ProjectDao | "InfoQ":http://www.infoq.com/presentations/dao-scripting |
+| "William Cook":http://www.cs.utexas.edu/~wcook/ | "Enso":http://enso-lang.org/ | "InfoQ":http://www.infoq.com/presentations/enso-dsl |
+| "Tracy Harms":http://kaleidic.com | "J":http://www.jsoftware.com/ | "InfoQ":http://www.infoq.com/presentations/j-language |
+| Walter Wilson | "Axiomatic Language":http://www.axiomaticlanguage.org/ | "InfoQ":http://www.infoq.com/presentations/axiomatic-language |
+| Andreas Rumpf | "Nimrod":http://www.nimrod-code.org/ | "InfoQ":http://www.infoq.com/presentations/nimrod |
+| "Daira Hopwood":https://github.com/daira | "Noether":https://github.com/daira/noether | "InfoQ":http://www.infoq.com/presentations/noether |
+| "Daniel Gregoire":https://twitter.com/semperos | "Gershwin":https://github.com/gershwin/gershwin | "InfoQ":http://www.infoq.com/presentations/gershwin |
+| "Dann Toliver":https://twitter.com/dann | "Daimio":http://www.daimio.org/ | "InfoQ":http://www.infoq.com/presentations/daimio |
+| "Bodil Stokke":http://bodil.org/ | "BODOL":https://github.com/bodil/BODOL | "InfoQ":http://www.infoq.com/presentations/bodol |
+| "Matthew Graham":https://twitter.com/lapsu | "Qbrt":https://github.com/mdg/qbrt | "InfoQ":http://www.infoq.com/presentations/qbrt-bytecode |
+| Clayton Bauman | "Babel":http://babelscript.net/ | "InfoQ":http://www.infoq.com/presentations/babel |
 | -"Rodrigo B. de Oliveria":https://github.com/bamboo- | -"Boo":http://boo.codehaus.org- | _was not able to present_ |
-
