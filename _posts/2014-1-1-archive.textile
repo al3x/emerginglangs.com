@@ -11,6 +11,6 @@ Our combined event, *FPW×ELC*, will be the day before Strange Loop on September
 
 *FPW×ELC* will present *live demonstrations* before an audience. By contrast, the SPLASH event will be an intense and private writer’s workshop. This process will be a chance to give and take both creative support and incisive criticism.
 
-Submissions will be *15 minute demo screencasts*. You can submit your proposal to either or both of the events. The submission deadline is June 8. Notifications will be sent out on June 27. After the events, participants will have until December 1 to revise their screencasts for archival publication on our website.
+Submissions will be *15 minute demo screencasts*. You can "submit your proposal":https://screendoor.dobt.co/future-programming-workshop/2014-fpw-submissions to either or both of the events. The submission deadline is June 8. Notifications will be sent out on June 27. After the events, participants will have until December 1 to revise their screencasts for archival publication on our website.
 
-For questions, please see the "FPW FAQ":http://www.future-programming.org/faq or email <a href="mailto:info@future-programming.org">info@future-programming.org</a>.
+For questions, please see the "FPW FAQ":http://www.future-programming.org/faq.html or email <a href="mailto:info@future-programming.org">info@future-programming.org</a>.
