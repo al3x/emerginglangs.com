@@ -9,6 +9,15 @@ body {
   line-height: 1.7em;
 }
 
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-left: 0;
+  margin-bottom: .4em;
+}
+
 .content a {
   color: #3b8bba;
   text-decoration: none;
@@ -93,9 +102,9 @@ body .primary-button {
 }
 
 .post table th {
-  background: 
+  background:
   #e0e0e0;
-  color: 
+  color:
   #000;
   text-align: left;
   vertical-align: bottom;
