@@ -1,0 +1,16 @@
+---
+layout: post
+title: 2014
+---
+
+This year, we're doing something a little different. We're teaming up with "The Future Programming Workshop":http://www.future-programming.org/ to bring you an event with an even bigger vision.
+
+FPW is building a community of researchers and practitioners exploring the frontiers of programming. To that end, we're looking for new ideas that could radically improve the practice of programming: ideas too embryonic for an academic paper, yet developed enough to demonstrate a prototype. Show us the future!
+
+Our combined event, *FPW×ELC*, will be the day before Strange Loop on September 17, 2014 in St. Louis. A second FPW event will take place at "SPLASH":http://2014.splashcon.org/ in Portland, Oregon around Oct. 19 (pending approval).
+
+*FPW×ELC* will present *live demonstrations* before an audience. By contrast, the SPLASH event will be an intense and private writer’s workshop. This process will be a chance to give and take both creative support and incisive criticism.
+
+Submissions will be *15 minute demo screencasts*. You can submit your proposal to either or both of the events. The submission deadline is June 8. Notifications will be sent out on June 27. After the events, participants will have until December 1 to revise their screencasts for archival publication on our website.
+
+For questions, please see the "FPW FAQ":http://www.future-programming.org/faq or email <a href="mailto:info@future-programming.org">info@future-programming.org</a>.
